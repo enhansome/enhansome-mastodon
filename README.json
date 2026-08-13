@@ -1,0 +1,252 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mastodon Redirector",
+          "description": "Adds a button to view profiles from other instances on your profile page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-28T19:54:50Z",
+            "owner": "bramus",
+            "repo": "mastodon-redirector",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mastotool",
+          "description": "Collection of command-line tools for working with Mastodon accounts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-18T18:51:06Z",
+            "owner": "muesli",
+            "repo": "mastotool",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mastodon Link",
+          "description": "Adds Mastodon icon links by profile to make following people on other instances easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-23T18:20:56Z",
+            "owner": "masrly",
+            "repo": "mastodon-link",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mastodon Widgets",
+          "description": "JavaScript Web Components to embed a Mastodon profile, timeline, follow and share button into any website. Provides an auto-completing instance selector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-15T19:11:03Z",
+            "owner": "splitbrain",
+            "repo": "mastodon-widget",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Elk",
+          "description": "A nimble Mastodon web client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-10T07:49:21Z",
+            "owner": "elk-zone",
+            "repo": "elk",
+            "stars": 6028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official Client",
+          "description": "Official Android client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T04:54:06Z",
+            "owner": "mastodon",
+            "repo": "mastodon-android",
+            "stars": 2034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phanpy",
+          "description": "A minimalistic and opinionated Mastodon web client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T05:12:08Z",
+            "owner": "cheeaun",
+            "repo": "phanpy",
+            "stars": 1477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "toot",
+          "description": "Mastodon CLI & TUI in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T09:27:34Z",
+            "owner": "ihabunek",
+            "repo": "toot",
+            "stars": 1323
+          }
+        }
+      ],
+      "title": "Desktop Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "masto.js",
+          "description": "Mastodon client for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T09:53:13Z",
+            "owner": "neet",
+            "repo": "masto.js",
+            "stars": 783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-mastodon",
+          "description": "Mastodon Client for golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T08:12:52Z",
+            "owner": "mattn",
+            "repo": "go-mastodon",
+            "stars": 649
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hometown",
+          "description": "Mastodon Fork with local posting, following lists, customizable max toos length.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-27T15:08:00Z",
+            "owner": "hometown-fork",
+            "repo": "hometown",
+            "stars": 819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecko",
+          "description": "Mastodon fork with local posting, toot formatting, and more granulate controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-02-01T18:20:30Z",
+            "owner": "magicstone-dev",
+            "repo": "ecko",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Servers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aerialbot",
+          "description": "Respond with geotagged aerial imagery of a random location in the world.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T07:23:23Z",
+            "owner": "doersino",
+            "repo": "aerialbot",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-trending",
+          "description": "Post trending Rust repositories on Mastodon (inspired by TrendingGithub).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T04:25:16Z",
+            "owner": "pbzweihander",
+            "repo": "rust-trending",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "News Bot",
+          "description": "Mirrors Twitter accounts on Mastodon (ClojureScript), source available on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2021-10-23T20:40:46Z",
+            "owner": "yogthos",
+            "repo": "mastodon-bot",
+            "stars": 197
+          }
+        }
+      ],
+      "title": "Bots"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:04:44.580Z",
+    "original_repository": "hyperupcall/awesome-mastodon",
+    "original_repository_sha": "7dc88f137fcb7bbbcd890be9f692bcc7438bf88e",
+    "enhanced_repository": "enhansome/enhansome-mastodon",
+    "enhanced_repository_description": null,
+    "title": "Awesome Mastodon with stars"
+  }
+}
