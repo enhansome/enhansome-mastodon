@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,214 | 🐛 4,491 | 🌐 Ruby | 📅 2026-08-16
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,215 | 🐛 4,487 | 🌐 Ruby | 📅 2026-08-17
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -72,8 +72,8 @@ This list is a collection of the best Mastodon resources.
 ## Desktop Clients
 
 * [Elk](https://github.com/elk-zone/elk/) ⭐ 6,030 | 🐛 652 | 🌐 Vue | 📅 2026-08-10 - A nimble Mastodon web client.
-* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,035 | 🐛 404 | 🌐 Java | 📅 2026-08-16 - Official Android client.
-* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,478 | 🐛 456 | 🌐 JavaScript | 📅 2026-08-16 - A minimalistic and opinionated Mastodon web client.
+* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,035 | 🐛 403 | 🌐 Java | 📅 2026-08-17 - Official Android client.
+* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,478 | 🐛 454 | 🌐 JavaScript | 📅 2026-08-17 - A minimalistic and opinionated Mastodon web client.
 * [toot](https://github.com/ihabunek/toot/) ⭐ 1,324 | 🐛 127 | 🌐 Python | 📅 2026-07-04 - Mastodon CLI & TUI in Python.
 * [Official Client List](https://joinmastodon.org/apps/) - Official list of Mastodon clients.
 * [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist web interface for Mastodon.
@@ -89,7 +89,7 @@ This list is a collection of the best Mastodon resources.
 * [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
 * [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) - Mastodon client for iOS, by the creators of Tweetbot.
 * [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
-* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,038 | 🐛 584 | 🌐 Swift | 📅 2026-06-09 - Mastodon client for iOS using SwiftUI.
+* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,039 | 🐛 584 | 🌐 Swift | 📅 2026-06-09 - Mastodon client for iOS using SwiftUI.
 
 ## Libraries
 
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
