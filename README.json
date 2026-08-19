@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569772953,
             "language": "JavaScript",
             "last_commit": "2024-12-28T19:54:50Z",
             "owner": "bramus",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158637119,
             "language": "Go",
             "last_commit": "2023-10-18T18:51:06Z",
             "owner": "muesli",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569383233,
             "language": "TypeScript",
             "last_commit": "2024-02-23T18:20:56Z",
             "owner": "masrly",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 708899657,
             "language": "TypeScript",
             "last_commit": "2023-11-15T19:11:03Z",
             "owner": "splitbrain",
@@ -63,7 +67,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 565661866,
             "language": "Vue",
             "last_commit": "2026-08-18T12:01:29Z",
             "owner": "elk-zone",
@@ -86,8 +91,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 447932278,
             "language": "Java",
-            "last_commit": "2026-08-18T04:27:04Z",
+            "last_commit": "2026-08-19T04:27:20Z",
             "owner": "mastodon",
             "repo": "mastodon-android",
             "stars": 2035
@@ -100,8 +106,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575800196,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T17:14:36Z",
+            "last_commit": "2026-08-19T11:30:55Z",
             "owner": "cheeaun",
             "repo": "phanpy",
             "stars": 1480
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88044859,
             "language": "Python",
             "last_commit": "2026-07-04T09:27:34Z",
             "owner": "ihabunek",
@@ -125,7 +133,7 @@
       "title": "Desktop Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129365407,
             "language": "TypeScript",
             "last_commit": "2026-08-01T09:53:13Z",
             "owner": "neet",
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88139173,
             "language": "Go",
             "last_commit": "2026-07-10T08:12:52Z",
             "owner": "mattn",
@@ -159,7 +169,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -168,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194567463,
             "language": "Ruby",
             "last_commit": "2026-07-27T15:08:00Z",
             "owner": "hometown-fork",
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 380886004,
             "language": "Ruby",
             "last_commit": "2024-02-01T18:20:30Z",
             "owner": "magicstone-dev",
@@ -193,7 +205,7 @@
       "title": "Servers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -202,6 +214,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250876003,
             "language": "Python",
             "last_commit": "2026-08-02T07:23:23Z",
             "owner": "doersino",
@@ -216,6 +229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152658121,
             "language": "Rust",
             "last_commit": "2026-07-28T04:25:16Z",
             "owner": "pbzweihander",
@@ -230,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 124799489,
             "language": "Clojure",
             "last_commit": "2021-10-23T20:40:46Z",
             "owner": "yogthos",
@@ -242,8 +257,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:58:06.463Z",
+    "last_updated": "2026-08-19T12:38:09.473Z",
     "original_repository": "hyperupcall/awesome-mastodon",
+    "original_repository_id": 678988739,
     "original_repository_sha": "7dc88f137fcb7bbbcd890be9f692bcc7438bf88e",
     "enhanced_repository": "enhansome/enhansome-mastodon",
     "enhanced_repository_description": null,
