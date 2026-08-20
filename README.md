@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,222 | 🐛 4,488 | 🌐 Ruby | 📅 2026-08-19
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,234 | 🐛 4,493 | 🌐 Ruby | 📅 2026-08-20
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -71,10 +71,10 @@ This list is a collection of the best Mastodon resources.
 
 ## Desktop Clients
 
-* [Elk](https://github.com/elk-zone/elk/) ⭐ 6,032 | 🐛 654 | 🌐 Vue | 📅 2026-08-18 - A nimble Mastodon web client.
-* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,035 | 🐛 404 | 🌐 Java | 📅 2026-08-19 - Official Android client.
+* [Elk](https://github.com/elk-zone/elk/) ⭐ 6,031 | 🐛 653 | 🌐 Vue | 📅 2026-08-18 - A nimble Mastodon web client.
+* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,034 | 🐛 404 | 🌐 Java | 📅 2026-08-20 - Official Android client.
 * [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,480 | 🐛 456 | 🌐 JavaScript | 📅 2026-08-19 - A minimalistic and opinionated Mastodon web client.
-* [toot](https://github.com/ihabunek/toot/) ⭐ 1,324 | 🐛 127 | 🌐 Python | 📅 2026-07-04 - Mastodon CLI & TUI in Python.
+* [toot](https://github.com/ihabunek/toot/) ⭐ 1,321 | 🐛 127 | 🌐 Python | 📅 2026-07-04 - Mastodon CLI & TUI in Python.
 * [Official Client List](https://joinmastodon.org/apps/) - Official list of Mastodon clients.
 * [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist web interface for Mastodon.
 * [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
