@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,234 | 🐛 4,493 | 🌐 Ruby | 📅 2026-08-20
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,238 | 🐛 4,491 | 🌐 Ruby | 📅 2026-08-21
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -51,7 +51,7 @@ This list is a collection of the best Mastodon resources.
 
 ## People
 
-* [Academics On Mastodon](https://github.com/nathanlesage/academics-on-mastodon/) ⭐ 974 | 🐛 0 | 📅 2026-03-03 - Markdown list of academics on Mastodon, by discipline/group/area.
+* [Academics On Mastodon](https://github.com/nathanlesage/academics-on-mastodon/) ⭐ 975 | 🐛 0 | 📅 2026-03-03 - Markdown list of academics on Mastodon, by discipline/group/area.
 * [Spreadsheet of Popular accounts](https://docs.google.com/spreadsheets/d/1cpUKkoT1MUn8_xM4usiERn-IdEuh0hXfBrwbbThwGiI/edit#gid=1111869705/) - Google spreadsheet of the most popular Mastodon accounts of the Fediverse.
 * [Spreadsheet of Journalist accounts](https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/edit#gid=1320898902/) - Google spreadsheet of various journalists of the Fediverse.
 * [Politici op Mastodon](https://www.politici-op-mastodon.nl) - Website with all dutch politicians and political parties on Mastodon.
@@ -71,10 +71,10 @@ This list is a collection of the best Mastodon resources.
 
 ## Desktop Clients
 
-* [Elk](https://github.com/elk-zone/elk/) ⭐ 6,031 | 🐛 653 | 🌐 Vue | 📅 2026-08-18 - A nimble Mastodon web client.
-* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,034 | 🐛 404 | 🌐 Java | 📅 2026-08-20 - Official Android client.
-* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,480 | 🐛 456 | 🌐 JavaScript | 📅 2026-08-19 - A minimalistic and opinionated Mastodon web client.
-* [toot](https://github.com/ihabunek/toot/) ⭐ 1,321 | 🐛 127 | 🌐 Python | 📅 2026-07-04 - Mastodon CLI & TUI in Python.
+* [Elk](https://github.com/elk-zone/elk/) ⭐ 6,032 | 🐛 653 | 🌐 Vue | 📅 2026-08-18 - A nimble Mastodon web client.
+* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,034 | 🐛 405 | 🌐 Java | 📅 2026-08-21 - Official Android client.
+* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,480 | 🐛 457 | 🌐 JavaScript | 📅 2026-08-19 - A minimalistic and opinionated Mastodon web client.
+* [toot](https://github.com/ihabunek/toot/) ⭐ 1,320 | 🐛 127 | 🌐 Python | 📅 2026-07-04 - Mastodon CLI & TUI in Python.
 * [Official Client List](https://joinmastodon.org/apps/) - Official list of Mastodon clients.
 * [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist web interface for Mastodon.
 * [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
@@ -89,7 +89,7 @@ This list is a collection of the best Mastodon resources.
 * [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
 * [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) - Mastodon client for iOS, by the creators of Tweetbot.
 * [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
-* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,042 | 🐛 584 | 🌐 Swift | 📅 2026-06-09 - Mastodon client for iOS using SwiftUI.
+* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,043 | 🐛 584 | 🌐 Swift | 📅 2026-06-09 - Mastodon client for iOS using SwiftUI.
 
 ## Libraries
 
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
