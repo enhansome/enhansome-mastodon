@@ -93,10 +93,10 @@
             "archived": false,
             "id": 447932278,
             "language": "Java",
-            "last_commit": "2026-08-21T04:27:23Z",
+            "last_commit": "2026-08-22T04:26:39Z",
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2034
+            "stars": 2035
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-19T11:30:55Z",
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1480
+            "stars": 1481
           }
         },
         {
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:59:05.125Z",
+    "last_updated": "2026-08-22T23:57:26.341Z",
     "original_repository": "hyperupcall/awesome-mastodon",
     "original_repository_id": 678988739,
     "original_repository_sha": "7dc88f137fcb7bbbcd890be9f692bcc7438bf88e",
