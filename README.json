@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "GitHub Repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52281283,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T14:44:31Z",
+            "owner": "mastodon",
+            "repo": "mastodon",
+            "stars": 50245
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Academics On Mastodon",
+          "description": "Markdown list of academics on Mastodon, by discipline/group/area.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 561427129,
+            "language": null,
+            "last_commit": "2026-03-03T16:06:35Z",
+            "owner": "nathanlesage",
+            "repo": "academics-on-mastodon",
+            "stars": 975
+          }
+        }
+      ],
+      "title": "People"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Mastodon Redirector",
           "description": "Adds a button to view profiles from other instances on your profile page.",
           "children": [],
@@ -81,7 +123,7 @@
             "last_commit": "2026-08-18T12:01:29Z",
             "owner": "elk-zone",
             "repo": "elk",
-            "stars": 6032
+            "stars": 6033
           }
         },
         {
@@ -93,7 +135,7 @@
             "archived": false,
             "id": 447932278,
             "language": "Java",
-            "last_commit": "2026-08-23T04:27:24Z",
+            "last_commit": "2026-08-24T04:30:43Z",
             "owner": "mastodon",
             "repo": "mastodon-android",
             "stars": 2035
@@ -111,7 +153,7 @@
             "last_commit": "2026-08-23T00:03:08Z",
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1482
+            "stars": 1483
           }
         },
         {
@@ -257,7 +299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:56:56.052Z",
+    "last_updated": "2026-08-24T14:46:16.633Z",
     "original_repository": "hyperupcall/awesome-mastodon",
     "original_repository_id": 678988739,
     "original_repository_sha": "7dc88f137fcb7bbbcd890be9f692bcc7438bf88e",
