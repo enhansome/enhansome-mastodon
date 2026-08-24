@@ -12,10 +12,10 @@
             "archived": false,
             "id": 52281283,
             "language": "Ruby",
-            "last_commit": "2026-08-24T14:44:31Z",
+            "last_commit": "2026-08-24T16:12:16Z",
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50245
+            "stars": 50249
           }
         }
       ],
@@ -299,7 +299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:46:16.633Z",
+    "last_updated": "2026-08-24T23:58:09.085Z",
     "original_repository": "hyperupcall/awesome-mastodon",
     "original_repository_id": 678988739,
     "original_repository_sha": "7dc88f137fcb7bbbcd890be9f692bcc7438bf88e",

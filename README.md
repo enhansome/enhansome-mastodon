@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,245 | 🐛 4,494 | 🌐 Ruby | 📅 2026-08-24
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,249 | 🐛 4,494 | 🌐 Ruby | 📅 2026-08-24
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -89,7 +89,7 @@ This list is a collection of the best Mastodon resources.
 * [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
 * [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) - Mastodon client for iOS, by the creators of Tweetbot.
 * [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
-* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,049 | 🐛 570 | 🌐 Swift | 📅 2026-08-24 - Mastodon client for iOS using SwiftUI.
+* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,049 | 🐛 566 | 🌐 Swift | 📅 2026-08-24 - Mastodon client for iOS using SwiftUI.
 
 ## Libraries
 
