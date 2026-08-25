@@ -12,10 +12,10 @@
             "archived": false,
             "id": 52281283,
             "language": "Ruby",
-            "last_commit": "2026-08-24T16:12:16Z",
+            "last_commit": "2026-08-25T04:30:14Z",
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50249
+            "stars": 50246
           }
         }
       ],
@@ -135,10 +135,10 @@
             "archived": false,
             "id": 447932278,
             "language": "Java",
-            "last_commit": "2026-08-24T04:30:43Z",
+            "last_commit": "2026-08-25T04:27:46Z",
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2035
+            "stars": 2036
           }
         },
         {
@@ -299,7 +299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:58:09.085Z",
+    "last_updated": "2026-08-25T06:36:46.337Z",
     "original_repository": "hyperupcall/awesome-mastodon",
     "original_repository_id": 678988739,
     "original_repository_sha": "7dc88f137fcb7bbbcd890be9f692bcc7438bf88e",
