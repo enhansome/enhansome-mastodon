@@ -12,10 +12,10 @@
             "archived": false,
             "id": 52281283,
             "language": "Ruby",
-            "last_commit": "2026-08-25T04:30:14Z",
+            "last_commit": "2026-08-25T22:27:37Z",
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50246
+            "stars": 50251
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-03-03T16:06:35Z",
             "owner": "nathanlesage",
             "repo": "academics-on-mastodon",
-            "stars": 975
+            "stars": 976
           }
         }
       ],
@@ -135,7 +135,7 @@
             "archived": false,
             "id": 447932278,
             "language": "Java",
-            "last_commit": "2026-08-25T04:27:46Z",
+            "last_commit": "2026-08-25T16:21:25Z",
             "owner": "mastodon",
             "repo": "mastodon-android",
             "stars": 2036
@@ -299,7 +299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:46.337Z",
+    "last_updated": "2026-08-25T23:59:17.789Z",
     "original_repository": "hyperupcall/awesome-mastodon",
     "original_repository_id": 678988739,
     "original_repository_sha": "7dc88f137fcb7bbbcd890be9f692bcc7438bf88e",
