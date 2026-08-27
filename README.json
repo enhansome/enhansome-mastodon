@@ -12,10 +12,10 @@
             "archived": false,
             "id": 52281283,
             "language": "Ruby",
-            "last_commit": "2026-08-25T22:27:37Z",
+            "last_commit": "2026-08-26T21:26:50Z",
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50251
+            "stars": 50254
           }
         }
       ],
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-18T12:01:29Z",
             "owner": "elk-zone",
             "repo": "elk",
-            "stars": 6033
+            "stars": 6035
           }
         },
         {
@@ -135,7 +135,7 @@
             "archived": false,
             "id": 447932278,
             "language": "Java",
-            "last_commit": "2026-08-25T16:21:25Z",
+            "last_commit": "2026-08-26T04:27:56Z",
             "owner": "mastodon",
             "repo": "mastodon-android",
             "stars": 2036
@@ -150,10 +150,10 @@
             "archived": false,
             "id": 575800196,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T00:03:08Z",
+            "last_commit": "2026-08-27T04:52:20Z",
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1483
+            "stars": 1484
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-07-04T09:27:34Z",
             "owner": "ihabunek",
             "repo": "toot",
-            "stars": 1320
+            "stars": 1322
           }
         }
       ],
@@ -299,7 +299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:59:17.789Z",
+    "last_updated": "2026-08-27T05:03:09.614Z",
     "original_repository": "hyperupcall/awesome-mastodon",
     "original_repository_id": 678988739,
     "original_repository_sha": "7dc88f137fcb7bbbcd890be9f692bcc7438bf88e",

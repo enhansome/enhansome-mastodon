@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,251 | 🐛 4,496 | 🌐 Ruby | 📅 2026-08-25
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,254 | 🐛 4,501 | 🌐 Ruby | 📅 2026-08-26
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -71,10 +71,10 @@ This list is a collection of the best Mastodon resources.
 
 ## Desktop Clients
 
-* [Elk](https://github.com/elk-zone/elk/) ⭐ 6,033 | 🐛 653 | 🌐 Vue | 📅 2026-08-18 - A nimble Mastodon web client.
-* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,036 | 🐛 406 | 🌐 Java | 📅 2026-08-25 - Official Android client.
-* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,483 | 🐛 459 | 🌐 JavaScript | 📅 2026-08-23 - A minimalistic and opinionated Mastodon web client.
-* [toot](https://github.com/ihabunek/toot/) ⭐ 1,320 | 🐛 127 | 🌐 Python | 📅 2026-07-04 - Mastodon CLI & TUI in Python.
+* [Elk](https://github.com/elk-zone/elk/) ⭐ 6,035 | 🐛 655 | 🌐 Vue | 📅 2026-08-18 - A nimble Mastodon web client.
+* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,036 | 🐛 406 | 🌐 Java | 📅 2026-08-26 - Official Android client.
+* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,484 | 🐛 459 | 🌐 JavaScript | 📅 2026-08-27 - A minimalistic and opinionated Mastodon web client.
+* [toot](https://github.com/ihabunek/toot/) ⭐ 1,322 | 🐛 127 | 🌐 Python | 📅 2026-07-04 - Mastodon CLI & TUI in Python.
 * [Official Client List](https://joinmastodon.org/apps/) - Official list of Mastodon clients.
 * [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist web interface for Mastodon.
 * [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
@@ -89,7 +89,7 @@ This list is a collection of the best Mastodon resources.
 * [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
 * [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) - Mastodon client for iOS, by the creators of Tweetbot.
 * [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
-* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,048 | 🐛 567 | 🌐 Swift | 📅 2026-08-25 - Mastodon client for iOS using SwiftUI.
+* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,049 | 🐛 567 | 🌐 Swift | 📅 2026-08-25 - Mastodon client for iOS using SwiftUI.
 
 ## Libraries
 
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
