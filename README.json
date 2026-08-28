@@ -12,11 +12,12 @@
             "archived": false,
             "id": 52281283,
             "language": "Ruby",
-            "last_commit": "2026-08-27T11:46:05Z",
+            "last_commit": "2026-08-28T06:55:03Z",
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50255
-          }
+            "stars": 50257
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         }
       ],
       "title": "Official"
@@ -37,7 +38,8 @@
             "owner": "nathanlesage",
             "repo": "academics-on-mastodon",
             "stars": 976
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         }
       ],
       "title": "People"
@@ -58,7 +60,8 @@
             "owner": "bramus",
             "repo": "mastodon-redirector",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "muesli",
             "repo": "mastotool",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         },
         {
           "node_type": "item",
@@ -88,7 +92,8 @@
             "owner": "masrly",
             "repo": "mastodon-link",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "splitbrain",
             "repo": "mastodon-widget",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         }
       ],
       "title": "Tools"
@@ -124,7 +130,8 @@
             "owner": "elk-zone",
             "repo": "elk",
             "stars": 6036
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         },
         {
           "node_type": "item",
@@ -135,11 +142,12 @@
             "archived": false,
             "id": 447932278,
             "language": "Java",
-            "last_commit": "2026-08-27T06:26:19Z",
+            "last_commit": "2026-08-28T06:52:24Z",
             "owner": "mastodon",
             "repo": "mastodon-android",
             "stars": 2037
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         },
         {
           "node_type": "item",
@@ -150,11 +158,12 @@
             "archived": false,
             "id": 575800196,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:07:01Z",
+            "last_commit": "2026-08-27T22:42:55Z",
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1484
-          }
+            "stars": 1486
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "ihabunek",
             "repo": "toot",
             "stars": 1322
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         }
       ],
       "title": "Desktop Clients"
@@ -190,7 +200,8 @@
             "owner": "neet",
             "repo": "masto.js",
             "stars": 784
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         },
         {
           "node_type": "item",
@@ -205,7 +216,8 @@
             "owner": "mattn",
             "repo": "go-mastodon",
             "stars": 649
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         }
       ],
       "title": "Libraries"
@@ -226,7 +238,8 @@
             "owner": "hometown-fork",
             "repo": "hometown",
             "stars": 819
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         },
         {
           "node_type": "item",
@@ -241,7 +254,8 @@
             "owner": "magicstone-dev",
             "repo": "ecko",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         }
       ],
       "title": "Servers"
@@ -262,7 +276,8 @@
             "owner": "doersino",
             "repo": "aerialbot",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         },
         {
           "node_type": "item",
@@ -277,7 +292,8 @@
             "owner": "pbzweihander",
             "repo": "rust-trending",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         },
         {
           "node_type": "item",
@@ -292,14 +308,15 @@
             "owner": "yogthos",
             "repo": "mastodon-bot",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
         }
       ],
       "title": "Bots"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:35.853Z",
+    "last_updated": "2026-08-28T07:04:43.168Z",
     "original_repository_info": {
       "archived": false,
       "id": 678988739,
