@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your self-hosted, globally interconnected microblogging community",
+            "homepage": "https://joinmastodon.org",
             "id": 52281283,
             "language": "Ruby",
-            "last_commit": "2026-08-28T06:55:03Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:29:02Z",
+            "open_issues": 4509,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50257
+            "stars": 50255,
+            "topics": [
+              "activity-stream",
+              "activitypub",
+              "docker",
+              "fediverse",
+              "mastodon",
+              "microblog",
+              "social-network",
+              "social-web",
+              "webfinger"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         }
@@ -32,12 +47,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of various lists consisting of academics on Mastodon",
+            "homepage": "https://nathanlesage.github.io/academics-on-mastodon/",
             "id": 561427129,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-03-03T16:06:35Z",
+            "open_issues": 0,
             "owner": "nathanlesage",
             "repo": "academics-on-mastodon",
-            "stars": 976
+            "stars": 976,
+            "topics": [
+              "academia",
+              "awesome-list",
+              "mastodon",
+              "scholar"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         }
@@ -54,12 +79,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View Mastodon profiles on your Mastodon instance",
+            "homepage": "https://chrome.google.com/webstore/detail/mastodon-view-profile/limifnkopacddgpihodacjeckfkpbfoe",
             "id": 569772953,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-28T19:54:50Z",
+            "open_issues": 5,
             "owner": "bramus",
             "repo": "mastodon-redirector",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "chrome-extension",
+              "mastodon"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         },
@@ -70,12 +103,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of command-line tools to work with your Mastodon account",
+            "homepage": null,
             "id": 158637119,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-10-18T18:51:06Z",
+            "open_issues": 14,
             "owner": "muesli",
             "repo": "mastotool",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         },
@@ -86,12 +126,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chrome extension for opening mastodon style links in your instance for ease of following",
+            "homepage": "https://chrome.google.com/webstore/detail/mastodon-link/nlfdgcdfjnobjocicnddjghdbmgglame",
             "id": 569383233,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2024-02-23T18:20:56Z",
+            "open_issues": 5,
             "owner": "masrly",
             "repo": "mastodon-link",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "chrome-extension",
+              "mastodon"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         },
@@ -102,12 +150,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastodon Web Components",
+            "homepage": "https://splitbrain.github.io/mastodon-widget/",
             "id": 708899657,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-15T19:11:03Z",
+            "open_issues": 6,
             "owner": "splitbrain",
             "repo": "mastodon-widget",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "mastodon",
+              "webcomponents",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         }
@@ -124,12 +181,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nimble Mastodon web client",
+            "homepage": "https://elk.zone",
             "id": 565661866,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-08-18T12:01:29Z",
+            "open_issues": 655,
             "owner": "elk-zone",
             "repo": "elk",
-            "stars": 6036
+            "stars": 6036,
+            "topics": [
+              "mastodon",
+              "mastodon-client",
+              "nuxt-app"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         },
@@ -140,12 +206,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Android app for Mastodon",
+            "homepage": "https://app.joinmastodon.org/android",
             "id": 447932278,
             "language": "Java",
-            "last_commit": "2026-08-28T06:52:24Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T04:26:25Z",
+            "open_issues": 409,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2037
+            "stars": 2037,
+            "topics": [
+              "android",
+              "mastodon"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         },
@@ -156,12 +230,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalistic opinionated Mastodon web client",
+            "homepage": "https://phanpy.social",
             "id": 575800196,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:42:55Z",
+            "open_issues": 460,
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1486
+            "stars": 1487,
+            "topics": [
+              "mastodon",
+              "mastodon-client",
+              "pwa",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         },
@@ -172,12 +256,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "toot - Mastodon CLI & TUI",
+            "homepage": null,
             "id": 88044859,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-04T09:27:34Z",
+            "open_issues": 128,
             "owner": "ihabunek",
             "repo": "toot",
-            "stars": 1322
+            "stars": 1322,
+            "topics": [
+              "cli",
+              "mastodon",
+              "python",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         }
@@ -194,12 +288,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐘 Universal Mastodon API client for JavaScript",
+            "homepage": "https://neet.github.io/masto.js/",
             "id": 129365407,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-01T09:53:13Z",
+            "open_issues": 9,
             "owner": "neet",
             "repo": "masto.js",
-            "stars": 784
+            "stars": 784,
+            "topics": [
+              "fediverse",
+              "mastodon",
+              "mastodon-api"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         },
@@ -210,12 +313,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mastodon client for golang",
+            "homepage": null,
             "id": 88139173,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-10T08:12:52Z",
+            "open_issues": 0,
             "owner": "mattn",
             "repo": "go-mastodon",
-            "stars": 649
+            "stars": 649,
+            "topics": [
+              "go",
+              "golang",
+              "mastodon"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         }
@@ -232,12 +344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A supported fork of Mastodon that provides local posting and a wider range of content types.",
+            "homepage": null,
             "id": 194567463,
             "language": "Ruby",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-27T15:08:00Z",
+            "open_issues": 121,
             "owner": "hometown-fork",
             "repo": "hometown",
-            "stars": 819
+            "stars": 819,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         },
@@ -248,12 +365,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community-driven fork of Mastodon's federated social network software",
+            "homepage": "https://magicstone.dev",
             "id": 380886004,
             "language": "Ruby",
+            "license": "AGPL-3.0",
             "last_commit": "2024-02-01T18:20:30Z",
+            "open_issues": 52,
             "owner": "magicstone-dev",
             "repo": "ecko",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "activitypub",
+              "c4-protocol",
+              "mastodon",
+              "microblog",
+              "social-media",
+              "social-network"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         }
@@ -270,12 +399,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple yet highly configurable Mastodon bot that posts geotagged aerial imagery of a random location in the world.",
+            "homepage": "https://mastodon.social/@aerialbot",
             "id": 250876003,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-02T07:23:23Z",
+            "open_issues": 0,
             "owner": "doersino",
             "repo": "aerialbot",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "aerial-imagery",
+              "bot",
+              "gis",
+              "google-maps",
+              "map-tiles",
+              "maps",
+              "mastodon-api",
+              "mastodon-bot",
+              "python3",
+              "satellite",
+              "satellite-imagery",
+              "shapefile",
+              "tweet",
+              "twitter-bot"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         },
@@ -286,12 +435,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Fediverse and Bluesky bot to post trending rust repositories, inspired by TrendingGithub",
+            "homepage": "https://yuri.garden/@RustTrending",
             "id": 152658121,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-28T04:25:16Z",
+            "open_issues": 1,
             "owner": "pbzweihander",
             "repo": "rust-trending",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "fediverse",
+              "fediverse-bot",
+              "mastodon",
+              "mastodon-bot",
+              "rust",
+              "rust-lang",
+              "trending-rust-repositories"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         },
@@ -302,12 +464,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "a bot for mirroring Twitter/Tumblr accounts and RSS feeds on Mastodon",
+            "homepage": "https://mastodon.social/@newsbot",
             "id": 124799489,
             "language": "Clojure",
+            "license": "MIT",
             "last_commit": "2021-10-23T20:40:46Z",
+            "open_issues": 9,
             "owner": "yogthos",
             "repo": "mastodon-bot",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "bot",
+              "clojurescript",
+              "lumo-cljs",
+              "mastodon",
+              "nodejs",
+              "rss-aggregator",
+              "tumblr",
+              "twitter"
+            ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
         }
@@ -316,15 +492,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:04:43.168Z",
+    "last_updated": "2026-08-29T04:30:21.563Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome Mastodon-related stuff!",
+      "homepage": null,
       "id": 678988739,
       "language": "Markdown",
+      "license": "CC0-1.0",
       "last_commit": "2026-06-22T20:39:37Z",
+      "open_issues": 2,
       "owner": "hyperupcall",
       "repo": "awesome-mastodon",
-      "stars": 64
+      "stars": 64,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "mastodon"
+      ]
     },
     "original_repository_sha": "7dc88f137fcb7bbbcd890be9f692bcc7438bf88e",
     "enhanced_repository": "enhansome/enhansome-mastodon",
