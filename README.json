@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T04:29:02Z",
-            "open_issues": 4509,
+            "last_commit": "2026-08-29T20:47:49Z",
+            "open_issues": 4511,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50255,
+            "stars": 50261,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -56,7 +56,7 @@
             "open_issues": 0,
             "owner": "nathanlesage",
             "repo": "academics-on-mastodon",
-            "stars": 976,
+            "stars": 977,
             "topics": [
               "academia",
               "awesome-list",
@@ -187,7 +187,7 @@
             "language": "Vue",
             "license": "MIT",
             "last_commit": "2026-08-18T12:01:29Z",
-            "open_issues": 655,
+            "open_issues": 656,
             "owner": "elk-zone",
             "repo": "elk",
             "stars": 6036,
@@ -215,7 +215,7 @@
             "open_issues": 409,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2037,
+            "stars": 2038,
             "topics": [
               "android",
               "mastodon"
@@ -235,7 +235,7 @@
             "id": 575800196,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T22:42:55Z",
+            "last_commit": "2026-08-30T00:03:53Z",
             "open_issues": 460,
             "owner": "cheeaun",
             "repo": "phanpy",
@@ -265,7 +265,7 @@
             "open_issues": 128,
             "owner": "ihabunek",
             "repo": "toot",
-            "stars": 1322,
+            "stars": 1323,
             "topics": [
               "cli",
               "mastodon",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:02:43.076Z",
+    "last_updated": "2026-08-30T01:40:25.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
