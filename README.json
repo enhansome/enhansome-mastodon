@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T20:47:49Z",
-            "open_issues": 4511,
+            "last_commit": "2026-08-30T14:15:58Z",
+            "open_issues": 4513,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50261,
+            "stars": 50262,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -56,7 +56,7 @@
             "open_issues": 0,
             "owner": "nathanlesage",
             "repo": "academics-on-mastodon",
-            "stars": 977,
+            "stars": 978,
             "topics": [
               "academia",
               "awesome-list",
@@ -190,35 +190,11 @@
             "open_issues": 656,
             "owner": "elk-zone",
             "repo": "elk",
-            "stars": 6036,
+            "stars": 6037,
             "topics": [
               "mastodon",
               "mastodon-client",
               "nuxt-app"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:43.168Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Official Client",
-          "description": "Official Android client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official Android app for Mastodon",
-            "homepage": "https://app.joinmastodon.org/android",
-            "id": 447932278,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-29T04:26:25Z",
-            "open_issues": 409,
-            "owner": "mastodon",
-            "repo": "mastodon-android",
-            "stars": 2038,
-            "topics": [
-              "android",
-              "mastodon"
             ]
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
@@ -235,7 +211,7 @@
             "id": 575800196,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T00:03:53Z",
+            "last_commit": "2026-08-30T10:36:31Z",
             "open_issues": 460,
             "owner": "cheeaun",
             "repo": "phanpy",
@@ -277,6 +253,62 @@
         }
       ],
       "title": "Desktop Clients"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SwiftUI",
+          "description": "Mastodon client for iOS using SwiftUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A SwiftUI Mastodon client",
+            "homepage": "https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884",
+            "id": 568430347,
+            "language": "Swift",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-25T05:59:34Z",
+            "open_issues": 567,
+            "owner": "Dimillian",
+            "repo": "IceCubesApp",
+            "stars": 7050,
+            "topics": [
+              "ios",
+              "mastodon",
+              "swift",
+              "swiftui"
+            ]
+          },
+          "first_seen": "2026-08-31T01:37:00.719Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Official Client",
+          "description": "Official Android client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official Android app for Mastodon",
+            "homepage": "https://app.joinmastodon.org/android",
+            "id": 447932278,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-30T04:27:41Z",
+            "open_issues": 410,
+            "owner": "mastodon",
+            "repo": "mastodon-android",
+            "stars": 2040,
+            "topics": [
+              "android",
+              "mastodon"
+            ]
+          },
+          "first_seen": "2026-08-28T07:04:43.168Z"
+        }
+      ],
+      "title": "Mobile Clients"
     },
     {
       "description": null,
@@ -353,7 +385,7 @@
             "open_issues": 121,
             "owner": "hometown-fork",
             "repo": "hometown",
-            "stars": 819,
+            "stars": 821,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
@@ -492,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:40:25.443Z",
+    "last_updated": "2026-08-31T01:37:00.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
@@ -500,8 +532,8 @@
       "id": 678988739,
       "language": "Markdown",
       "license": "CC0-1.0",
-      "last_commit": "2026-06-22T20:39:37Z",
-      "open_issues": 2,
+      "last_commit": "2026-08-30T06:48:33Z",
+      "open_issues": 0,
       "owner": "hyperupcall",
       "repo": "awesome-mastodon",
       "stars": 64,
@@ -511,7 +543,7 @@
         "mastodon"
       ]
     },
-    "original_repository_sha": "7dc88f137fcb7bbbcd890be9f692bcc7438bf88e",
+    "original_repository_sha": "abe8c18d5090f4cd8fd41ece94632c66ada43224",
     "enhanced_repository": "enhansome/enhansome-mastodon",
     "enhanced_repository_description": null,
     "title": "Awesome Mastodon with stars"
