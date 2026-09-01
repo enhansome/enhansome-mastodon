@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T14:15:58Z",
-            "open_issues": 4513,
+            "last_commit": "2026-08-31T22:11:53Z",
+            "open_issues": 4515,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50262,
+            "stars": 50258,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -56,7 +56,7 @@
             "open_issues": 0,
             "owner": "nathanlesage",
             "repo": "academics-on-mastodon",
-            "stars": 978,
+            "stars": 979,
             "topics": [
               "academia",
               "awesome-list",
@@ -211,8 +211,8 @@
             "id": 575800196,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T10:36:31Z",
-            "open_issues": 460,
+            "last_commit": "2026-08-31T08:54:31Z",
+            "open_issues": 461,
             "owner": "cheeaun",
             "repo": "phanpy",
             "stars": 1487,
@@ -241,7 +241,7 @@
             "open_issues": 128,
             "owner": "ihabunek",
             "repo": "toot",
-            "stars": 1323,
+            "stars": 1324,
             "topics": [
               "cli",
               "mastodon",
@@ -269,11 +269,11 @@
             "id": 568430347,
             "language": "Swift",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-25T05:59:34Z",
-            "open_issues": 567,
+            "last_commit": "2026-08-31T11:24:09Z",
+            "open_issues": 572,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7050,
+            "stars": 7052,
             "topics": [
               "ios",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T04:27:41Z",
+            "last_commit": "2026-08-31T04:31:38Z",
             "open_issues": 410,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2040,
+            "stars": 2039,
             "topics": [
               "android",
               "mastodon"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:37:00.719Z",
+    "last_updated": "2026-09-01T02:03:28.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
