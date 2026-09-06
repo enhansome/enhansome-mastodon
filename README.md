@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,265 | 🐛 4,520 | 🌐 Ruby | 📅 2026-09-04
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,270 | 🐛 4,523 | 🌐 Ruby | 📅 2026-09-05
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -71,9 +71,9 @@ This list is a collection of the best Mastodon resources.
 
 ## Desktop Clients
 
-* [Elk](https://github.com/elk-zone/elk/) ⭐ 6,035 | 🐛 655 | 🌐 Vue | 📅 2026-09-02 - A nimble Mastodon web client.
-* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,488 | 🐛 461 | 🌐 JavaScript | 📅 2026-09-04 - A minimalistic and opinionated Mastodon web client.
-* [toot](https://github.com/ihabunek/toot/) ⭐ 1,324 | 🐛 128 | 🌐 Python | 📅 2026-07-04 - Mastodon CLI & TUI in Python.
+* [Elk](https://github.com/elk-zone/elk/) ⭐ 6,036 | 🐛 655 | 🌐 Vue | 📅 2026-09-02 - A nimble Mastodon web client.
+* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,489 | 🐛 461 | 🌐 JavaScript | 📅 2026-09-04 - A minimalistic and opinionated Mastodon web client.
+* [toot](https://github.com/ihabunek/toot/) ⭐ 1,323 | 🐛 128 | 🌐 Python | 📅 2026-07-04 - Mastodon CLI & TUI in Python.
 * [Official Client List](https://joinmastodon.org/apps/) - Official list of Mastodon clients.
 * [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist web interface for Mastodon.
 * [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
@@ -83,7 +83,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Mobile Clients
 
-* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,053 | 🐛 573 | 🌐 Swift | 📅 2026-08-31 - Mastodon client for iOS using SwiftUI.
+* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,054 | 🐛 575 | 🌐 Swift | 📅 2026-08-31 - Mastodon client for iOS using SwiftUI.
 * [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,039 | 🐛 408 | 🌐 Java | 📅 2026-09-04 - Official Android client.
 * [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 * [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
