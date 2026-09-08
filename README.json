@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T18:22:53Z",
-            "open_issues": 4525,
+            "last_commit": "2026-09-07T19:12:45Z",
+            "open_issues": 4528,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50274,
+            "stars": 50281,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -215,7 +215,7 @@
             "open_issues": 462,
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1489,
+            "stars": 1490,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -269,11 +269,11 @@
             "id": 568430347,
             "language": "Swift",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T11:24:09Z",
+            "last_commit": "2026-09-07T11:23:59Z",
             "open_issues": 577,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7054,
+            "stars": 7055,
             "topics": [
               "ios",
               "mastodon",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:18:17.834Z",
+    "last_updated": "2026-09-08T01:24:15.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
