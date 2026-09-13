@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T21:44:45Z",
-            "open_issues": 4532,
+            "last_commit": "2026-09-13T00:24:14Z",
+            "open_issues": 4540,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50296,
+            "stars": 50298,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -187,7 +187,7 @@
             "language": "Vue",
             "license": "MIT",
             "last_commit": "2026-09-02T09:05:34Z",
-            "open_issues": 657,
+            "open_issues": 658,
             "owner": "elk-zone",
             "repo": "elk",
             "stars": 6034,
@@ -211,7 +211,7 @@
             "id": 575800196,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T20:34:44Z",
+            "last_commit": "2026-09-13T00:03:44Z",
             "open_issues": 461,
             "owner": "cheeaun",
             "repo": "phanpy",
@@ -237,7 +237,7 @@
             "id": 88044859,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-04T09:27:34Z",
+            "last_commit": "2026-09-12T08:42:31Z",
             "open_issues": 128,
             "owner": "ihabunek",
             "repo": "toot",
@@ -273,7 +273,7 @@
             "open_issues": 576,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7059,
+            "stars": 7060,
             "topics": [
               "ios",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T04:29:52Z",
+            "last_commit": "2026-09-12T04:27:57Z",
             "open_issues": 409,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2039,
+            "stars": 2040,
             "topics": [
               "android",
               "mastodon"
@@ -329,7 +329,7 @@
             "open_issues": 9,
             "owner": "neet",
             "repo": "masto.js",
-            "stars": 784,
+            "stars": 783,
             "topics": [
               "fediverse",
               "mastodon",
@@ -385,7 +385,7 @@
             "open_issues": 121,
             "owner": "hometown-fork",
             "repo": "hometown",
-            "stars": 822,
+            "stars": 823,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:33:48.291Z",
+    "last_updated": "2026-09-13T01:25:27.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
