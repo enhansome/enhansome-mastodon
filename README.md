@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,294 | 🐛 4,539 | 🌐 Ruby | 📅 2026-09-14
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,296 | 🐛 4,553 | 🌐 Ruby | 📅 2026-09-16
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -83,8 +83,8 @@ This list is a collection of the best Mastodon resources.
 
 ## Mobile Clients
 
-* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,062 | 🐛 578 | 🌐 Swift | 📅 2026-09-14 - Mastodon client for iOS using SwiftUI.
-* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,039 | 🐛 410 | 🌐 Java | 📅 2026-09-14 - Official Android client.
+* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,064 | 🐛 578 | 🌐 Swift | 📅 2026-09-14 - Mastodon client for iOS using SwiftUI.
+* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,042 | 🐛 410 | 🌐 Java | 📅 2026-09-15 - Official Android client.
 * [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 * [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
 * [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
@@ -99,7 +99,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Servers
 
-* [Hometown](https://github.com/hometown-fork/hometown/) ⭐ 823 | 🐛 121 | 🌐 Ruby | 📅 2026-09-01 - Mastodon Fork with local posting, following lists, customizable max toos length.
+* [Hometown](https://github.com/hometown-fork/hometown/) ⭐ 823 | 🐛 122 | 🌐 Ruby | 📅 2026-09-16 - Mastodon Fork with local posting, following lists, customizable max toos length.
 * [ecko](https://github.com/magicstone-dev/ecko/) ⭐ 56 | 🐛 52 | 🌐 Ruby | 📅 2024-02-01 - Mastodon fork with local posting, toot formatting, and more granulate controls.
 * [Glitch Edition](https://glitch-soc.github.io/docs/) - Mastodon Fork with local posting, toot formatting, improved settings, and more granulate controls.
 
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
