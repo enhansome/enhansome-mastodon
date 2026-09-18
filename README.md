@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,297 | 🐛 4,551 | 🌐 Ruby | 📅 2026-09-16
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,298 | 🐛 4,546 | 🌐 Ruby | 📅 2026-09-17
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -84,7 +84,7 @@ This list is a collection of the best Mastodon resources.
 ## Mobile Clients
 
 * [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,064 | 🐛 579 | 🌐 Swift | 📅 2026-09-14 - Mastodon client for iOS using SwiftUI.
-* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,042 | 🐛 410 | 🌐 Java | 📅 2026-09-16 - Official Android client.
+* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,042 | 🐛 410 | 🌐 Java | 📅 2026-09-17 - Official Android client.
 * [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 * [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
 * [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
@@ -99,7 +99,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Servers
 
-* [Hometown](https://github.com/hometown-fork/hometown/) ⭐ 823 | 🐛 125 | 🌐 Ruby | 📅 2026-09-16 - Mastodon Fork with local posting, following lists, customizable max toos length.
+* [Hometown](https://github.com/hometown-fork/hometown/) ⭐ 823 | 🐛 126 | 🌐 Ruby | 📅 2026-09-17 - Mastodon Fork with local posting, following lists, customizable max toos length.
 * [ecko](https://github.com/magicstone-dev/ecko/) ⭐ 56 | 🐛 52 | 🌐 Ruby | 📅 2024-02-01 - Mastodon fork with local posting, toot formatting, and more granulate controls.
 * [Glitch Edition](https://glitch-soc.github.io/docs/) - Mastodon Fork with local posting, toot formatting, improved settings, and more granulate controls.
 
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
