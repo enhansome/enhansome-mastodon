@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-22T01:01:52Z",
-            "open_issues": 4570,
+            "last_commit": "2026-09-22T20:50:21Z",
+            "open_issues": 4571,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50310,
+            "stars": 50312,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -295,7 +295,7 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T04:32:42Z",
+            "last_commit": "2026-09-22T04:29:58Z",
             "open_issues": 411,
             "owner": "mastodon",
             "repo": "mastodon-android",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:53:07.709Z",
+    "last_updated": "2026-09-23T01:48:08.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
