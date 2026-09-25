@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T16:00:34Z",
-            "open_issues": 4580,
+            "last_commit": "2026-09-24T17:54:59Z",
+            "open_issues": 4569,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50319,
+            "stars": 50320,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -190,7 +190,7 @@
             "open_issues": 657,
             "owner": "elk-zone",
             "repo": "elk",
-            "stars": 6035,
+            "stars": 6034,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -295,7 +295,7 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T04:30:48Z",
+            "last_commit": "2026-09-24T04:30:39Z",
             "open_issues": 411,
             "owner": "mastodon",
             "repo": "mastodon-android",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T01:39:14.892Z",
+    "last_updated": "2026-09-25T01:55:02.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
