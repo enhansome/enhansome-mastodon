@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-26T04:32:11Z",
-            "open_issues": 4573,
+            "last_commit": "2026-09-28T00:29:58Z",
+            "open_issues": 4582,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50328,
+            "stars": 50333,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -211,11 +211,11 @@
             "id": 575800196,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T09:46:56Z",
+            "last_commit": "2026-09-27T15:58:28Z",
             "open_issues": 464,
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1493,
+            "stars": 1494,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -273,7 +273,7 @@
             "open_issues": 580,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7066,
+            "stars": 7068,
             "topics": [
               "ios",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T04:29:31Z",
-            "open_issues": 411,
+            "last_commit": "2026-09-27T04:30:49Z",
+            "open_issues": 412,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2044,
+            "stars": 2045,
             "topics": [
               "android",
               "mastodon"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:49:08.140Z",
+    "last_updated": "2026-09-28T01:59:36.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
@@ -536,7 +536,7 @@
       "open_issues": 0,
       "owner": "hyperupcall",
       "repo": "awesome-mastodon",
-      "stars": 64,
+      "stars": 63,
       "topics": [
         "awesome",
         "awesome-list",
