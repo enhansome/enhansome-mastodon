@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T00:29:58Z",
-            "open_issues": 4582,
+            "last_commit": "2026-09-28T17:44:39Z",
+            "open_issues": 4560,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50333,
+            "stars": 50343,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -190,7 +190,7 @@
             "open_issues": 657,
             "owner": "elk-zone",
             "repo": "elk",
-            "stars": 6035,
+            "stars": 6036,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -211,7 +211,7 @@
             "id": 575800196,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T15:58:28Z",
+            "last_commit": "2026-09-28T05:07:25Z",
             "open_issues": 464,
             "owner": "cheeaun",
             "repo": "phanpy",
@@ -273,7 +273,7 @@
             "open_issues": 580,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7068,
+            "stars": 7073,
             "topics": [
               "ios",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T04:30:49Z",
+            "last_commit": "2026-09-28T04:34:27Z",
             "open_issues": 412,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2045,
+            "stars": 2046,
             "topics": [
               "android",
               "mastodon"
@@ -381,11 +381,11 @@
             "id": 194567463,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T18:23:50Z",
+            "last_commit": "2026-09-28T16:15:46Z",
             "open_issues": 121,
             "owner": "hometown-fork",
             "repo": "hometown",
-            "stars": 823,
+            "stars": 824,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:59:36.186Z",
+    "last_updated": "2026-09-29T02:44:20.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
