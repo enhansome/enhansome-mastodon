@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T19:16:13Z",
-            "open_issues": 4561,
+            "last_commit": "2026-10-02T00:25:25Z",
+            "open_issues": 4564,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50341,
+            "stars": 50346,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -190,7 +190,7 @@
             "open_issues": 658,
             "owner": "elk-zone",
             "repo": "elk",
-            "stars": 6034,
+            "stars": 6033,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -241,7 +241,7 @@
             "open_issues": 128,
             "owner": "ihabunek",
             "repo": "toot",
-            "stars": 1325,
+            "stars": 1326,
             "topics": [
               "cli",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T04:33:13Z",
+            "last_commit": "2026-10-01T04:33:14Z",
             "open_issues": 411,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2045,
+            "stars": 2046,
             "topics": [
               "android",
               "mastodon"
@@ -382,7 +382,7 @@
             "language": "Ruby",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-28T16:15:46Z",
-            "open_issues": 119,
+            "open_issues": 120,
             "owner": "hometown-fork",
             "repo": "hometown",
             "stars": 825,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:26:35.888Z",
+    "last_updated": "2026-10-02T02:34:54.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
