@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T00:25:25Z",
-            "open_issues": 4564,
+            "last_commit": "2026-10-03T00:24:32Z",
+            "open_issues": 4571,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50346,
+            "stars": 50347,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -211,11 +211,11 @@
             "id": 575800196,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T02:01:08Z",
+            "last_commit": "2026-10-02T04:20:25Z",
             "open_issues": 464,
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1496,
+            "stars": 1497,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -273,7 +273,7 @@
             "open_issues": 580,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7074,
+            "stars": 7075,
             "topics": [
               "ios",
               "mastodon",
@@ -295,7 +295,7 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T04:33:14Z",
+            "last_commit": "2026-10-02T04:32:19Z",
             "open_issues": 411,
             "owner": "mastodon",
             "repo": "mastodon-android",
@@ -354,7 +354,7 @@
             "open_issues": 0,
             "owner": "mattn",
             "repo": "go-mastodon",
-            "stars": 648,
+            "stars": 647,
             "topics": [
               "go",
               "golang",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:34:54.211Z",
+    "last_updated": "2026-10-03T02:19:31.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
@@ -536,7 +536,7 @@
       "open_issues": 0,
       "owner": "hyperupcall",
       "repo": "awesome-mastodon",
-      "stars": 63,
+      "stars": 62,
       "topics": [
         "awesome",
         "awesome-list",

@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,346 | 🐛 4,564 | 🌐 Ruby | 📅 2026-10-02
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,347 | 🐛 4,571 | 🌐 Ruby | 📅 2026-10-03
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -72,7 +72,7 @@ This list is a collection of the best Mastodon resources.
 ## Desktop Clients
 
 * [Elk](https://github.com/elk-zone/elk/) ⭐ 6,033 | 🐛 658 | 🌐 Vue | 📅 2026-09-02 - A nimble Mastodon web client.
-* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,496 | 🐛 464 | 🌐 JavaScript | 📅 2026-09-30 - A minimalistic and opinionated Mastodon web client.
+* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,497 | 🐛 464 | 🌐 JavaScript | 📅 2026-10-02 - A minimalistic and opinionated Mastodon web client.
 * [toot](https://github.com/ihabunek/toot/) ⭐ 1,326 | 🐛 128 | 🌐 Python | 📅 2026-09-12 - Mastodon CLI & TUI in Python.
 * [Official Client List](https://joinmastodon.org/apps/) - Official list of Mastodon clients.
 * [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist web interface for Mastodon.
@@ -83,8 +83,8 @@ This list is a collection of the best Mastodon resources.
 
 ## Mobile Clients
 
-* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,074 | 🐛 580 | 🌐 Swift | 📅 2026-09-20 - Mastodon client for iOS using SwiftUI.
-* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,046 | 🐛 411 | 🌐 Java | 📅 2026-10-01 - Official Android client.
+* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,075 | 🐛 580 | 🌐 Swift | 📅 2026-09-20 - Mastodon client for iOS using SwiftUI.
+* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,046 | 🐛 411 | 🌐 Java | 📅 2026-10-02 - Official Android client.
 * [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 * [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
 * [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
@@ -94,7 +94,7 @@ This list is a collection of the best Mastodon resources.
 ## Libraries
 
 * [masto.js](https://github.com/neet/masto.js) ⭐ 784 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-01 - Mastodon client for JavaScript.
-* [go-mastodon](https://github.com/mattn/go-mastodon) ⭐ 648 | 🐛 0 | 🌐 Go | 📅 2026-07-10 - Mastodon Client for golang.
+* [go-mastodon](https://github.com/mattn/go-mastodon) ⭐ 647 | 🐛 0 | 🌐 Go | 📅 2026-07-10 - Mastodon Client for golang.
 * [Official Library List](https://docs.joinmastodon.org/client/libraries/) - Official list of Mastodon client libraries.
 
 ## Servers
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
