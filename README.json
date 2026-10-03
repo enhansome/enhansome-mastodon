@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "GitHub Repository",
-          "description": null,
+          "description": "mastodon/mastodon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,8 +15,8 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T00:24:32Z",
-            "open_issues": 4571,
+            "last_commit": "2026-10-03T04:36:57Z",
+            "open_issues": 4572,
             "owner": "mastodon",
             "repo": "mastodon",
             "stars": 50347,
@@ -187,7 +187,7 @@
             "language": "Vue",
             "license": "MIT",
             "last_commit": "2026-09-02T09:05:34Z",
-            "open_issues": 658,
+            "open_issues": 659,
             "owner": "elk-zone",
             "repo": "elk",
             "stars": 6033,
@@ -295,7 +295,7 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T04:32:19Z",
+            "last_commit": "2026-10-03T04:34:13Z",
             "open_issues": 411,
             "owner": "mastodon",
             "repo": "mastodon-android",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:19:31.760Z",
+    "last_updated": "2026-10-03T05:01:43.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
