@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T04:36:57Z",
-            "open_issues": 4572,
+            "last_commit": "2026-10-04T00:24:12Z",
+            "open_issues": 4578,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50347,
+            "stars": 50344,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -186,8 +186,8 @@
             "id": 565661866,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-02T09:05:34Z",
-            "open_issues": 659,
+            "last_commit": "2026-10-04T01:50:30Z",
+            "open_issues": 664,
             "owner": "elk-zone",
             "repo": "elk",
             "stars": 6033,
@@ -211,11 +211,11 @@
             "id": 575800196,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T04:20:25Z",
+            "last_commit": "2026-10-03T13:04:08Z",
             "open_issues": 464,
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1497,
+            "stars": 1496,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -273,7 +273,7 @@
             "open_issues": 580,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7075,
+            "stars": 7070,
             "topics": [
               "ios",
               "mastodon",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:01:43.195Z",
+    "last_updated": "2026-10-04T02:52:04.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
