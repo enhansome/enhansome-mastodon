@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T10:22:24Z",
-            "open_issues": 4560,
+            "last_commit": "2026-10-06T22:05:42Z",
+            "open_issues": 4569,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50353,
+            "stars": 50356,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -241,7 +241,7 @@
             "open_issues": 128,
             "owner": "ihabunek",
             "repo": "toot",
-            "stars": 1326,
+            "stars": 1325,
             "topics": [
               "cli",
               "mastodon",
@@ -273,7 +273,7 @@
             "open_issues": 581,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7077,
+            "stars": 7078,
             "topics": [
               "ios",
               "mastodon",
@@ -295,7 +295,7 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T04:32:54Z",
+            "last_commit": "2026-10-06T14:46:14Z",
             "open_issues": 411,
             "owner": "mastodon",
             "repo": "mastodon-android",
@@ -385,7 +385,7 @@
             "open_issues": 119,
             "owner": "hometown-fork",
             "repo": "hometown",
-            "stars": 825,
+            "stars": 824,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
@@ -440,7 +440,7 @@
             "open_issues": 0,
             "owner": "doersino",
             "repo": "aerialbot",
-            "stars": 233,
+            "stars": 234,
             "topics": [
               "aerial-imagery",
               "bot",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:56:55.306Z",
+    "last_updated": "2026-10-07T02:41:37.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",

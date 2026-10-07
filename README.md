@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,353 | 🐛 4,560 | 🌐 Ruby | 📅 2026-10-06
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,356 | 🐛 4,569 | 🌐 Ruby | 📅 2026-10-06
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -73,7 +73,7 @@ This list is a collection of the best Mastodon resources.
 
 * [Elk](https://github.com/elk-zone/elk/) ⭐ 6,032 | 🐛 662 | 🌐 Vue | 📅 2026-10-05 - A nimble Mastodon web client.
 * [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,496 | 🐛 464 | 🌐 JavaScript | 📅 2026-10-06 - A minimalistic and opinionated Mastodon web client.
-* [toot](https://github.com/ihabunek/toot/) ⭐ 1,326 | 🐛 128 | 🌐 Python | 📅 2026-09-12 - Mastodon CLI & TUI in Python.
+* [toot](https://github.com/ihabunek/toot/) ⭐ 1,325 | 🐛 128 | 🌐 Python | 📅 2026-09-12 - Mastodon CLI & TUI in Python.
 * [Official Client List](https://joinmastodon.org/apps/) - Official list of Mastodon clients.
 * [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist web interface for Mastodon.
 * [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
@@ -83,7 +83,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Mobile Clients
 
-* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,077 | 🐛 581 | 🌐 Swift | 📅 2026-09-20 - Mastodon client for iOS using SwiftUI.
+* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,078 | 🐛 581 | 🌐 Swift | 📅 2026-09-20 - Mastodon client for iOS using SwiftUI.
 * [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,049 | 🐛 411 | 🌐 Java | 📅 2026-10-06 - Official Android client.
 * [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 * [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
@@ -99,7 +99,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Servers
 
-* [Hometown](https://github.com/hometown-fork/hometown/) ⭐ 825 | 🐛 119 | 🌐 Ruby | 📅 2026-10-05 - Mastodon Fork with local posting, following lists, customizable max toos length.
+* [Hometown](https://github.com/hometown-fork/hometown/) ⭐ 824 | 🐛 119 | 🌐 Ruby | 📅 2026-10-05 - Mastodon Fork with local posting, following lists, customizable max toos length.
 * [ecko](https://github.com/magicstone-dev/ecko/) ⭐ 56 | 🐛 52 | 🌐 Ruby | 📅 2024-02-01 - Mastodon fork with local posting, toot formatting, and more granulate controls.
 * [Glitch Edition](https://glitch-soc.github.io/docs/) - Mastodon Fork with local posting, toot formatting, improved settings, and more granulate controls.
 
@@ -136,7 +136,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Bots
 
-* [aerialbot](https://github.com/doersino/aerialbot) ⭐ 233 | 🐛 0 | 🌐 Python | 📅 2026-08-02 - Respond with geotagged aerial imagery of a random location in the world.
+* [aerialbot](https://github.com/doersino/aerialbot) ⭐ 234 | 🐛 0 | 🌐 Python | 📅 2026-08-02 - Respond with geotagged aerial imagery of a random location in the world.
 * [rust-trending](https://github.com/pbzweihander/rust-trending) ⭐ 205 | 🐛 1 | 🌐 Rust | 📅 2026-07-28 - Post trending Rust repositories on Mastodon (inspired by TrendingGithub).
 * [News Bot](https://botsin.space/@newsbot) - Mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot) ⚠️ Archived.
 * [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (Python).
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
