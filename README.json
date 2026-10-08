@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T22:05:42Z",
-            "open_issues": 4569,
+            "last_commit": "2026-10-07T18:00:39Z",
+            "open_issues": 4566,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50356,
+            "stars": 50357,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -211,8 +211,8 @@
             "id": 575800196,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T03:13:09Z",
-            "open_issues": 464,
+            "last_commit": "2026-10-07T10:39:47Z",
+            "open_issues": 465,
             "owner": "cheeaun",
             "repo": "phanpy",
             "stars": 1496,
@@ -273,7 +273,7 @@
             "open_issues": 581,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7078,
+            "stars": 7080,
             "topics": [
               "ios",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T14:46:14Z",
+            "last_commit": "2026-10-07T11:52:25Z",
             "open_issues": 411,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2049,
+            "stars": 2048,
             "topics": [
               "android",
               "mastodon"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:41:37.803Z",
+    "last_updated": "2026-10-08T02:56:34.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
