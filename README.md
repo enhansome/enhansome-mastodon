@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,372 | 🐛 4,601 | 🌐 Ruby | 📅 2026-10-12
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,376 | 🐛 4,599 | 🌐 Ruby | 📅 2026-10-12
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -51,7 +51,7 @@ This list is a collection of the best Mastodon resources.
 
 ## People
 
-* [Academics On Mastodon](https://github.com/nathanlesage/academics-on-mastodon/) ⭐ 980 | 🐛 0 | 📅 2026-03-03 - Markdown list of academics on Mastodon, by discipline/group/area.
+* [Academics On Mastodon](https://github.com/nathanlesage/academics-on-mastodon/) ⭐ 981 | 🐛 0 | 📅 2026-03-03 - Markdown list of academics on Mastodon, by discipline/group/area.
 * [Spreadsheet of Popular accounts](https://docs.google.com/spreadsheets/d/1cpUKkoT1MUn8_xM4usiERn-IdEuh0hXfBrwbbThwGiI/edit#gid=1111869705/) - Google spreadsheet of the most popular Mastodon accounts of the Fediverse.
 * [Spreadsheet of Journalist accounts](https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/edit#gid=1320898902/) - Google spreadsheet of various journalists of the Fediverse.
 * [Politici op Mastodon](https://www.politici-op-mastodon.nl) - Website with all dutch politicians and political parties on Mastodon.
@@ -59,7 +59,7 @@ This list is a collection of the best Mastodon resources.
 ## Tools
 
 * [Mastodon Redirector](https://github.com/bramus/mastodon-redirector/) ⭐ 106 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-28 - Adds a button to view profiles from other instances on your profile page.
-* [mastotool](https://github.com/muesli/mastotool/) ⭐ 101 | 🐛 14 | 🌐 Go | 📅 2023-10-18 - Collection of command-line tools for working with Mastodon accounts.
+* [mastotool](https://github.com/muesli/mastotool/) ⭐ 100 | 🐛 14 | 🌐 Go | 📅 2023-10-18 - Collection of command-line tools for working with Mastodon accounts.
 * [Mastodon Link](https://github.com/masrly/mastodon-link/) ⭐ 32 | 🐛 5 | 🌐 TypeScript | 📅 2024-02-23 - Adds Mastodon icon links by profile to make following people on other instances easier.
 * [Mastodon Widgets](https://github.com/splitbrain/mastodon-widget) ⭐ 8 | 🐛 6 | 🌐 TypeScript | 📅 2023-11-15 - JavaScript Web Components to embed a Mastodon profile, timeline, follow and share button into any website. Provides an auto-completing instance selector.
 * [Toot Scheduler](https://scheduler.mastodon.tools/) - Schedule toots to "toot" later.
@@ -71,8 +71,8 @@ This list is a collection of the best Mastodon resources.
 
 ## Desktop Clients
 
-* [Elk](https://github.com/elk-zone/elk/) ⭐ 6,034 | 🐛 665 | 🌐 Vue | 📅 2026-10-12 - A nimble Mastodon web client.
-* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,501 | 🐛 466 | 🌐 JavaScript | 📅 2026-10-10 - A minimalistic and opinionated Mastodon web client.
+* [Elk](https://github.com/elk-zone/elk/) ⭐ 6,032 | 🐛 665 | 🌐 Vue | 📅 2026-10-12 - A nimble Mastodon web client.
+* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,501 | 🐛 467 | 🌐 JavaScript | 📅 2026-10-13 - A minimalistic and opinionated Mastodon web client.
 * [toot](https://github.com/ihabunek/toot/) ⭐ 1,326 | 🐛 128 | 🌐 Python | 📅 2026-09-12 - Mastodon CLI & TUI in Python.
 * [Official Client List](https://joinmastodon.org/apps/) - Official list of Mastodon clients.
 * [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist web interface for Mastodon.
@@ -83,8 +83,8 @@ This list is a collection of the best Mastodon resources.
 
 ## Mobile Clients
 
-* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,083 | 🐛 584 | 🌐 Swift | 📅 2026-10-08 - Mastodon client for iOS using SwiftUI.
-* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,050 | 🐛 409 | 🌐 Java | 📅 2026-10-11 - Official Android client.
+* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,083 | 🐛 574 | 🌐 Swift | 📅 2026-10-12 - Mastodon client for iOS using SwiftUI.
+* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,051 | 🐛 409 | 🌐 Java | 📅 2026-10-12 - Official Android client.
 * [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 * [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
 * [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
@@ -136,7 +136,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Bots
 
-* [aerialbot](https://github.com/doersino/aerialbot) ⭐ 234 | 🐛 0 | 🌐 Python | 📅 2026-08-02 - Respond with geotagged aerial imagery of a random location in the world.
+* [aerialbot](https://github.com/doersino/aerialbot) ⭐ 235 | 🐛 0 | 🌐 Python | 📅 2026-08-02 - Respond with geotagged aerial imagery of a random location in the world.
 * [rust-trending](https://github.com/pbzweihander/rust-trending) ⭐ 206 | 🐛 1 | 🌐 Rust | 📅 2026-07-28 - Post trending Rust repositories on Mastodon (inspired by TrendingGithub).
 * [News Bot](https://botsin.space/@newsbot) - Mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot) ⚠️ Archived.
 * [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (Python).
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
