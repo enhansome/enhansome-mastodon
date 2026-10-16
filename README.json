@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T18:47:31Z",
-            "open_issues": 4606,
+            "last_commit": "2026-10-16T00:52:36Z",
+            "open_issues": 4600,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50406,
+            "stars": 50411,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -190,7 +190,7 @@
             "open_issues": 665,
             "owner": "elk-zone",
             "repo": "elk",
-            "stars": 6031,
+            "stars": 6032,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -211,11 +211,11 @@
             "id": 575800196,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T08:07:26Z",
+            "last_commit": "2026-10-15T14:29:40Z",
             "open_issues": 466,
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1501,
+            "stars": 1502,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -270,10 +270,10 @@
             "language": "Swift",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-13T18:27:39Z",
-            "open_issues": 580,
+            "open_issues": 583,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7086,
+            "stars": 7087,
             "topics": [
               "ios",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T04:31:48Z",
+            "last_commit": "2026-10-15T15:51:18Z",
             "open_issues": 409,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2053,
+            "stars": 2054,
             "topics": [
               "android",
               "mastodon"
@@ -385,7 +385,7 @@
             "open_issues": 119,
             "owner": "hometown-fork",
             "repo": "hometown",
-            "stars": 824,
+            "stars": 823,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:43.168Z"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:51:16.625Z",
+    "last_updated": "2026-10-16T01:39:50.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
