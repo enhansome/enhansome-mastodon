@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,414 | 🐛 4,609 | 🌐 Ruby | 📅 2026-10-17
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,415 | 🐛 4,615 | 🌐 Ruby | 📅 2026-10-18
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -83,8 +83,8 @@ This list is a collection of the best Mastodon resources.
 
 ## Mobile Clients
 
-* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,088 | 🐛 584 | 🌐 Swift | 📅 2026-10-13 - Mastodon client for iOS using SwiftUI.
-* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,055 | 🐛 409 | 🌐 Java | 📅 2026-10-17 - Official Android client.
+* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,089 | 🐛 586 | 🌐 Swift | 📅 2026-10-13 - Mastodon client for iOS using SwiftUI.
+* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,056 | 🐛 410 | 🌐 Java | 📅 2026-10-18 - Official Android client.
 * [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 * [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
 * [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
