@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,463 | 🐛 4,619 | 🌐 Ruby | 📅 2026-10-30
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,465 | 🐛 4,612 | 🌐 Ruby | 📅 2026-10-31
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -83,8 +83,8 @@ This list is a collection of the best Mastodon resources.
 
 ## Mobile Clients
 
-* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,095 | 🐛 589 | 🌐 Swift | 📅 2026-10-13 - Mastodon client for iOS using SwiftUI.
-* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,063 | 🐛 409 | 🌐 Java | 📅 2026-10-29 - Official Android client.
+* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,097 | 🐛 590 | 🌐 Swift | 📅 2026-10-13 - Mastodon client for iOS using SwiftUI.
+* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,064 | 🐛 409 | 🌐 Java | 📅 2026-10-30 - Official Android client.
 * [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 * [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
 * [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
@@ -94,12 +94,12 @@ This list is a collection of the best Mastodon resources.
 ## Libraries
 
 * [masto.js](https://github.com/neet/masto.js) ⭐ 785 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-21 - Mastodon client for JavaScript.
-* [go-mastodon](https://github.com/mattn/go-mastodon) ⭐ 648 | 🐛 0 | 🌐 Go | 📅 2026-07-10 - Mastodon Client for golang.
+* [go-mastodon](https://github.com/mattn/go-mastodon) ⭐ 648 | 🐛 1 | 🌐 Go | 📅 2026-07-10 - Mastodon Client for golang.
 * [Official Library List](https://docs.joinmastodon.org/client/libraries/) - Official list of Mastodon client libraries.
 
 ## Servers
 
-* [Hometown](https://github.com/hometown-fork/hometown/) ⭐ 819 | 🐛 120 | 🌐 Ruby | 📅 2026-10-29 - Mastodon Fork with local posting, following lists, customizable max toos length.
+* [Hometown](https://github.com/hometown-fork/hometown/) ⭐ 820 | 🐛 120 | 🌐 Ruby | 📅 2026-10-29 - Mastodon Fork with local posting, following lists, customizable max toos length.
 * [ecko](https://github.com/magicstone-dev/ecko/) ⭐ 56 | 🐛 52 | 🌐 Ruby | 📅 2024-02-01 - Mastodon fork with local posting, toot formatting, and more granulate controls.
 * [Glitch Edition](https://glitch-soc.github.io/docs/) - Mastodon Fork with local posting, toot formatting, improved settings, and more granulate controls.
 
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
