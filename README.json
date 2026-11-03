@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-01T23:03:10Z",
-            "open_issues": 4628,
+            "last_commit": "2026-11-03T01:39:38Z",
+            "open_issues": 4621,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50464,
+            "stars": 50467,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -186,7 +186,7 @@
             "id": 565661866,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-10-24T09:58:14Z",
+            "last_commit": "2026-11-02T05:04:11Z",
             "open_issues": 667,
             "owner": "elk-zone",
             "repo": "elk",
@@ -212,7 +212,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-01T00:01:53Z",
-            "open_issues": 471,
+            "open_issues": 472,
             "owner": "cheeaun",
             "repo": "phanpy",
             "stars": 1509,
@@ -273,7 +273,7 @@
             "open_issues": 590,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7100,
+            "stars": 7102,
             "topics": [
               "ios",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T04:20:04Z",
-            "open_issues": 409,
+            "last_commit": "2026-11-02T04:21:19Z",
+            "open_issues": 410,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2064,
+            "stars": 2065,
             "topics": [
               "android",
               "mastodon"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T02:44:43.491Z",
+    "last_updated": "2026-11-03T04:01:45.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
