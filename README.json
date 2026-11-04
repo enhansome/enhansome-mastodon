@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-03T01:39:38Z",
-            "open_issues": 4621,
+            "last_commit": "2026-11-04T01:14:46Z",
+            "open_issues": 4627,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50467,
+            "stars": 50475,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -211,11 +211,11 @@
             "id": 575800196,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T00:01:53Z",
+            "last_commit": "2026-11-04T02:25:29Z",
             "open_issues": 472,
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1509,
+            "stars": 1510,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -273,7 +273,7 @@
             "open_issues": 590,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7102,
+            "stars": 7103,
             "topics": [
               "ios",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T04:21:19Z",
+            "last_commit": "2026-11-03T10:20:51Z",
             "open_issues": 410,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2065,
+            "stars": 2067,
             "topics": [
               "android",
               "mastodon"
@@ -381,7 +381,7 @@
             "id": 194567463,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T14:56:08Z",
+            "last_commit": "2026-11-03T17:13:44Z",
             "open_issues": 120,
             "owner": "hometown-fork",
             "repo": "hometown",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T04:01:45.165Z",
+    "last_updated": "2026-11-04T03:18:36.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
