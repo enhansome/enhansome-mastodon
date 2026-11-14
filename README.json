@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T02:10:52Z",
-            "open_issues": 4629,
+            "last_commit": "2026-11-13T22:37:00Z",
+            "open_issues": 4628,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50597,
+            "stars": 50599,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -190,7 +190,7 @@
             "open_issues": 663,
             "owner": "elk-zone",
             "repo": "elk",
-            "stars": 6037,
+            "stars": 6036,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T07:40:40Z",
+            "last_commit": "2026-11-13T04:20:58Z",
             "open_issues": 409,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2078,
+            "stars": 2079,
             "topics": [
               "android",
               "mastodon"
@@ -326,7 +326,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-01T14:19:09Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "neet",
             "repo": "masto.js",
             "stars": 784,
@@ -381,7 +381,7 @@
             "id": 194567463,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T03:06:16Z",
+            "last_commit": "2026-11-13T20:59:46Z",
             "open_issues": 120,
             "owner": "hometown-fork",
             "repo": "hometown",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:35:56.015Z",
+    "last_updated": "2026-11-14T03:33:28.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",

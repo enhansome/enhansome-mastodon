@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,597 | 🐛 4,629 | 🌐 Ruby | 📅 2026-11-13
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,599 | 🐛 4,628 | 🌐 Ruby | 📅 2026-11-13
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -71,7 +71,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Desktop Clients
 
-* [Elk](https://github.com/elk-zone/elk/) ⭐ 6,037 | 🐛 663 | 🌐 Vue | 📅 2026-11-07 - A nimble Mastodon web client.
+* [Elk](https://github.com/elk-zone/elk/) ⭐ 6,036 | 🐛 663 | 🌐 Vue | 📅 2026-11-07 - A nimble Mastodon web client.
 * [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,518 | 🐛 475 | 🌐 JavaScript | 📅 2026-11-10 - A minimalistic and opinionated Mastodon web client.
 * [toot](https://github.com/ihabunek/toot/) ⭐ 1,331 | 🐛 130 | 🌐 Python | 📅 2026-09-12 - Mastodon CLI & TUI in Python.
 * [Official Client List](https://joinmastodon.org/apps/) - Official list of Mastodon clients.
@@ -84,7 +84,7 @@ This list is a collection of the best Mastodon resources.
 ## Mobile Clients
 
 * [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,110 | 🐛 604 | 🌐 Swift | 📅 2026-10-13 - Mastodon client for iOS using SwiftUI.
-* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,078 | 🐛 409 | 🌐 Java | 📅 2026-11-12 - Official Android client.
+* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,079 | 🐛 409 | 🌐 Java | 📅 2026-11-13 - Official Android client.
 * [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 * [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
 * [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
@@ -93,7 +93,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Libraries
 
-* [masto.js](https://github.com/neet/masto.js) ⭐ 784 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-01 - Mastodon client for JavaScript.
+* [masto.js](https://github.com/neet/masto.js) ⭐ 784 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-01 - Mastodon client for JavaScript.
 * [go-mastodon](https://github.com/mattn/go-mastodon) ⭐ 649 | 🐛 1 | 🌐 Go | 📅 2026-07-10 - Mastodon Client for golang.
 * [Official Library List](https://docs.joinmastodon.org/client/libraries/) - Official list of Mastodon client libraries.
 
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
