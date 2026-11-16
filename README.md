@@ -24,7 +24,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Official
 
-* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,614 | 🐛 4,632 | 🌐 Ruby | 📅 2026-11-14
+* [GitHub Repository](https://github.com/tootsuite/mastodon/) ⭐ 50,613 | 🐛 4,634 | 🌐 Ruby | 📅 2026-11-15
 * [Documentation & Help Center](https://docs.joinmastodon.org/)
 * [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -58,7 +58,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Tools
 
-* [Mastodon Redirector](https://github.com/bramus/mastodon-redirector/) ⭐ 106 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-28 - Adds a button to view profiles from other instances on your profile page.
+* [Mastodon Redirector](https://github.com/bramus/mastodon-redirector/) ⭐ 107 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-28 - Adds a button to view profiles from other instances on your profile page.
 * [mastotool](https://github.com/muesli/mastotool/) ⭐ 100 | 🐛 14 | 🌐 Go | 📅 2023-10-18 - Collection of command-line tools for working with Mastodon accounts.
 * [Mastodon Link](https://github.com/masrly/mastodon-link/) ⭐ 32 | 🐛 5 | 🌐 TypeScript | 📅 2024-02-23 - Adds Mastodon icon links by profile to make following people on other instances easier.
 * [Mastodon Widgets](https://github.com/splitbrain/mastodon-widget) ⭐ 8 | 🐛 6 | 🌐 TypeScript | 📅 2023-11-15 - JavaScript Web Components to embed a Mastodon profile, timeline, follow and share button into any website. Provides an auto-completing instance selector.
@@ -72,7 +72,7 @@ This list is a collection of the best Mastodon resources.
 ## Desktop Clients
 
 * [Elk](https://github.com/elk-zone/elk/) ⭐ 6,036 | 🐛 663 | 🌐 Vue | 📅 2026-11-07 - A nimble Mastodon web client.
-* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,516 | 🐛 475 | 🌐 JavaScript | 📅 2026-11-15 - A minimalistic and opinionated Mastodon web client.
+* [phanpy](https://github.com/cheeaun/phanpy) ⭐ 1,516 | 🐛 474 | 🌐 JavaScript | 📅 2026-11-15 - A minimalistic and opinionated Mastodon web client.
 * [toot](https://github.com/ihabunek/toot/) ⭐ 1,331 | 🐛 130 | 🌐 Python | 📅 2026-09-12 - Mastodon CLI & TUI in Python.
 * [Official Client List](https://joinmastodon.org/apps/) - Official list of Mastodon clients.
 * [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist web interface for Mastodon.
@@ -83,8 +83,8 @@ This list is a collection of the best Mastodon resources.
 
 ## Mobile Clients
 
-* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,110 | 🐛 605 | 🌐 Swift | 📅 2026-10-13 - Mastodon client for iOS using SwiftUI.
-* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,079 | 🐛 409 | 🌐 Java | 📅 2026-11-14 - Official Android client.
+* [SwiftUI](https://github.com/Dimillian/IceCubesApp) ⭐ 7,111 | 🐛 605 | 🌐 Swift | 📅 2026-10-13 - Mastodon client for iOS using SwiftUI.
+* [Official Client](https://github.com/mastodon/mastodon-android/) ⭐ 2,079 | 🐛 409 | 🌐 Java | 📅 2026-11-15 - Official Android client.
 * [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 * [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
 * [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
@@ -99,7 +99,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Servers
 
-* [Hometown](https://github.com/hometown-fork/hometown/) ⭐ 820 | 🐛 120 | 🌐 Ruby | 📅 2026-11-13 - Mastodon Fork with local posting, following lists, customizable max toos length.
+* [Hometown](https://github.com/hometown-fork/hometown/) ⭐ 820 | 🐛 120 | 🌐 Ruby | 📅 2026-11-15 - Mastodon Fork with local posting, following lists, customizable max toos length.
 * [ecko](https://github.com/magicstone-dev/ecko/) ⭐ 56 | 🐛 52 | 🌐 Ruby | 📅 2024-02-01 - Mastodon fork with local posting, toot formatting, and more granulate controls.
 * [Glitch Edition](https://glitch-soc.github.io/docs/) - Mastodon Fork with local posting, toot formatting, improved settings, and more granulate controls.
 
@@ -146,4 +146,4 @@ This list is a collection of the best Mastodon resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
