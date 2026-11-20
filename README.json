@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-19T04:24:15Z",
-            "open_issues": 4634,
+            "last_commit": "2026-11-19T17:22:10Z",
+            "open_issues": 4638,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50555,
+            "stars": 50605,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -190,7 +190,7 @@
             "open_issues": 663,
             "owner": "elk-zone",
             "repo": "elk",
-            "stars": 6037,
+            "stars": 6036,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -212,10 +212,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-18T06:32:18Z",
-            "open_issues": 474,
+            "open_issues": 475,
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1516,
+            "stars": 1515,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -241,7 +241,7 @@
             "open_issues": 130,
             "owner": "ihabunek",
             "repo": "toot",
-            "stars": 1331,
+            "stars": 1330,
             "topics": [
               "cli",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T13:46:41Z",
-            "open_issues": 417,
+            "last_commit": "2026-11-19T14:31:36Z",
+            "open_issues": 416,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2081,
+            "stars": 2080,
             "topics": [
               "android",
               "mastodon"
@@ -329,7 +329,7 @@
             "open_issues": 5,
             "owner": "neet",
             "repo": "masto.js",
-            "stars": 784,
+            "stars": 782,
             "topics": [
               "fediverse",
               "mastodon",
@@ -351,10 +351,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-18T17:14:35Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "mattn",
             "repo": "go-mastodon",
-            "stars": 649,
+            "stars": 648,
             "topics": [
               "go",
               "golang",
@@ -381,8 +381,8 @@
             "id": 194567463,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-15T23:19:02Z",
-            "open_issues": 121,
+            "last_commit": "2026-11-19T11:26:10Z",
+            "open_issues": 122,
             "owner": "hometown-fork",
             "repo": "hometown",
             "stars": 820,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:31:13.530Z",
+    "last_updated": "2026-11-20T04:18:11.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
