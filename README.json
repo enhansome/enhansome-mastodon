@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-20T16:49:16Z",
-            "open_issues": 4628,
+            "last_commit": "2026-11-22T03:09:01Z",
+            "open_issues": 4643,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50603,
+            "stars": 50616,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -270,10 +270,10 @@
             "language": "Swift",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-13T18:27:39Z",
-            "open_issues": 610,
+            "open_issues": 611,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7111,
+            "stars": 7112,
             "topics": [
               "ios",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T18:04:44Z",
+            "last_commit": "2026-11-21T04:21:04Z",
             "open_issues": 417,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2081,
+            "stars": 2082,
             "topics": [
               "android",
               "mastodon"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T04:17:15.500Z",
+    "last_updated": "2026-11-22T03:29:34.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
