@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-22T03:09:01Z",
-            "open_issues": 4643,
+            "last_commit": "2026-11-22T23:40:12Z",
+            "open_issues": 4655,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50616,
+            "stars": 50701,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -56,7 +56,7 @@
             "open_issues": 0,
             "owner": "nathanlesage",
             "repo": "academics-on-mastodon",
-            "stars": 982,
+            "stars": 983,
             "topics": [
               "academia",
               "awesome-list",
@@ -186,8 +186,8 @@
             "id": 565661866,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-11-07T15:13:28Z",
-            "open_issues": 663,
+            "last_commit": "2026-11-22T22:05:33Z",
+            "open_issues": 665,
             "owner": "elk-zone",
             "repo": "elk",
             "stars": 6037,
@@ -273,7 +273,7 @@
             "open_issues": 611,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7112,
+            "stars": 7111,
             "topics": [
               "ios",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T04:21:04Z",
+            "last_commit": "2026-11-22T04:21:02Z",
             "open_issues": 417,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2082,
+            "stars": 2083,
             "topics": [
               "android",
               "mastodon"
@@ -325,7 +325,7 @@
             "id": 129365407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-15T02:38:00Z",
+            "last_commit": "2026-11-22T07:35:16Z",
             "open_issues": 5,
             "owner": "neet",
             "repo": "masto.js",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:29:34.819Z",
+    "last_updated": "2026-11-23T03:59:53.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
