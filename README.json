@@ -15,11 +15,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-25T04:24:56Z",
-            "open_issues": 4630,
+            "last_commit": "2026-11-26T04:24:04Z",
+            "open_issues": 4636,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50627,
+            "stars": 50649,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -186,11 +186,11 @@
             "id": 565661866,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-11-24T17:03:12Z",
-            "open_issues": 665,
+            "last_commit": "2026-11-25T17:13:48Z",
+            "open_issues": 661,
             "owner": "elk-zone",
             "repo": "elk",
-            "stars": 6034,
+            "stars": 6035,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -215,7 +215,7 @@
             "open_issues": 475,
             "owner": "cheeaun",
             "repo": "phanpy",
-            "stars": 1518,
+            "stars": 1519,
             "topics": [
               "mastodon",
               "mastodon-client",
@@ -241,7 +241,7 @@
             "open_issues": 130,
             "owner": "ihabunek",
             "repo": "toot",
-            "stars": 1330,
+            "stars": 1331,
             "topics": [
               "cli",
               "mastodon",
@@ -295,11 +295,11 @@
             "id": 447932278,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T04:22:21Z",
-            "open_issues": 418,
+            "last_commit": "2026-11-26T04:21:57Z",
+            "open_issues": 419,
             "owner": "mastodon",
             "repo": "mastodon-android",
-            "stars": 2087,
+            "stars": 2088,
             "topics": [
               "android",
               "mastodon"
@@ -381,8 +381,8 @@
             "id": 194567463,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-25T00:24:37Z",
-            "open_issues": 122,
+            "last_commit": "2026-11-25T16:55:00Z",
+            "open_issues": 120,
             "owner": "hometown-fork",
             "repo": "hometown",
             "stars": 820,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:40:39.231Z",
+    "last_updated": "2026-11-26T05:28:18.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Mastodon-related stuff!",
